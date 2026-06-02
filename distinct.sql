@@ -1,0 +1,1 @@
+SELECT DISTINCT Manufacturer FROM Products;
